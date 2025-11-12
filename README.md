@@ -55,9 +55,10 @@ print(norm_of_matrix)
 
 
 ## Output:
-<img width="1277" height="335" alt="image" src="https://github.com/user-attachments/assets/11502948-cc8f-48a2-8875-e721ba9a22d8" />
-<img width="1356" height="371" alt="image" src="https://github.com/user-attachments/assets/0b0fea8e-ccb7-40e1-80c8-1a08a162c169" />
-<img width="1250" height="245" alt="image" src="https://github.com/user-attachments/assets/2fad83f8-a3ab-4796-9512-87ad5fe3cd25" />
+<img width="1490" height="980" alt="image" src="https://github.com/user-attachments/assets/a2c5342f-7f7b-4cb7-8013-ac003a73ecae" />
+<img width="1612" height="1042" alt="image" src="https://github.com/user-attachments/assets/ffa35601-1b4b-4bed-b3ff-95260c22e4bb" />
+<img width="1547" height="1028" alt="image" src="https://github.com/user-attachments/assets/ce93cfca-9d25-4f37-b691-7eefbf6bdb30" />
+
 
 
 
